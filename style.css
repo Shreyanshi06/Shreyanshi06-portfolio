@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(183, 33%, 89%); /* Light background color */
+    color: rgb(5, 1, 19);
+
+}
+
+h2 {
+    margin-top: 20px;
+    color: #007bff; /* Bootstrap primary color */
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
